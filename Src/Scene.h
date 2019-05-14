@@ -55,6 +55,7 @@ public:
 	void Push(ScenePtr);
 	void Pop();
 	void Replace(ScenePtr);
+	Scene& Current();
 	Scene& Current() const;
 	size_t Size() const;
 	bool Empty() const;
