@@ -119,7 +119,9 @@
     <ClCompile Include="Src\Scene.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Src\MainGameScene.h" />
     <ClInclude Include="Src\Scene.h" />
+    <ClInclude Include="Src\TitleScene.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

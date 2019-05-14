@@ -22,5 +22,11 @@
     <ClInclude Include="Src\Scene.h">
       <Filter>Src</Filter>
     </ClInclude>
+    <ClInclude Include="Src\TitleScene.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\MainGameScene.h">
+      <Filter>Src</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
